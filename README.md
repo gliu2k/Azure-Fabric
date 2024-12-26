@@ -1,4 +1,4 @@
-# Azure Fabric
+# Azure Data Fabric
 
 # Description
 This is an introuction to **Azure Fabric** product.
