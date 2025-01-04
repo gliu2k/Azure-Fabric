@@ -1,12 +1,12 @@
 # Azure Data Fabric
 
 # Description
-This is an introuction to **Azure Fabric** product.
+This is an introuction to Microsft **Azure Fabric**.
 
 # 1. About DP-600 Exam
 Share my experience of learning the course and taking the exam
 
-- [Microsoft Learn](https://learn.microsoft.com/) is very important. Yes, I mean this online help. Almost all the answers can be found there.
+- [Microsoft Learn](https://learn.microsoft.com/) is very important. Yes, I mean this online help. Almost all the answers or testing points can be found there.
 - It is essential to practice Python, SQL, and PowerBI(DAX) regularly. The experience from daily work can be very helpful.
 
   E.g. there are a quite few questions regarding **deployment**. When you move the DataLake from DEV to QAS, do you think its security rule will be moved up automatically?
