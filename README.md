@@ -16,3 +16,6 @@ Share my experience of learning the course and taking the exam
 > [!NOTE]
 > I can only review and change the answoers to the **Case Study** questions in the 5 minutes.
 
+- [My Certification](https://learn.microsoft.com/en-us/users/gangliu-1255/transcript/vm99ms3w4z1glpy?wt.mc_id=certnurture_eml1_email_wwl)
+
+![alt text](/images/DP600.png?raw=true)
