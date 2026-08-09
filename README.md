@@ -24,4 +24,6 @@ Share my experience of learning the course and taking the exam
 # 1. About DP-700 Exam
 It mainly focuses on the data engineering aspects of Microsoft Fabric.
 
+- [My Certification](https://learn.microsoft.com/en-us/users/gangliu-1255/credentials/74ee2ed438d6342f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 ![alt text](/images/DP700.png?raw=true)
