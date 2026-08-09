@@ -20,3 +20,8 @@ Share my experience of learning the course and taking the exam
 - [My Certification](https://learn.microsoft.com/en-us/users/gangliu-1255/transcript/vm99ms3w4z1glpy?wt.mc_id=certnurture_eml1_email_wwl)
 
 ![alt text](/images/DP600.png?raw=true)
+
+# 1. About DP-700 Exam
+It mainly focuses on the data engineering aspects of Microsoft Fabric.
+
+![alt text](/images/DP700.png?raw=true)
